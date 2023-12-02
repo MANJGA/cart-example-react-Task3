@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.resp-img {
+  width: 100%;
+  height: auto;
+}
+
+.no-decor{
+  color: black;
+  text-decoration: none;
+}
+
+.item {
+  width: 20%;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.item-image{
+  width: 100%;
+}
+
+.item-price{
+  text-align: center;
+}
